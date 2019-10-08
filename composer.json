@@ -13,6 +13,7 @@
 	"prefer-stable": true,
 	"require": {
 		"raiym/instagram-php-scraper": "*",
+		"phpmailer/phpmailer": "*",
 		"shannan/wx-sdk-php": "dev-master"
 	},
 	"require-dev": {
