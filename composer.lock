@@ -279,12 +279,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/shannan1989/WX-SDK-PHP.git",
-                "reference": "2623e323ace983aba236538b884ddb322d0bd172"
+                "reference": "0e41a15d572b490dec5c231b6975f340f78d109c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shannan1989/WX-SDK-PHP/zipball/2623e323ace983aba236538b884ddb322d0bd172",
-                "reference": "2623e323ace983aba236538b884ddb322d0bd172",
+                "url": "https://api.github.com/repos/shannan1989/WX-SDK-PHP/zipball/0e41a15d572b490dec5c231b6975f340f78d109c",
+                "reference": "0e41a15d572b490dec5c231b6975f340f78d109c",
                 "shasum": ""
             },
             "type": "library",
@@ -315,7 +315,7 @@
                 "weixin",
                 "weixin-sdk"
             ],
-            "time": "2019-10-15T02:37:08+00:00"
+            "time": "2019-11-01T07:40:14+00:00"
         }
     ],
     "packages-dev": [
