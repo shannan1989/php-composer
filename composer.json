@@ -12,10 +12,12 @@
 	"minimum-stability": "stable",
 	"prefer-stable": true,
 	"require": {
-		"raiym/instagram-php-scraper": "*",
-		"phpmailer/phpmailer": "*",
 		"hassankhan/config": "*",
-		"shannan/wx-sdk-php": "dev-master"
+		"phpmailer/phpmailer": "*",
+		"raiym/instagram-php-scraper": "*",
+		"shannan/wx-sdk-php": "dev-master",
+		"ua-parser/uap-php": "*",
+		"whichbrowser/parser": "*"
 	},
 	"require-dev": {
 		"roave/security-advisories": "dev-master"
