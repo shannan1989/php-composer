@@ -11,7 +11,9 @@
         }],
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "test": "vendor/bin/phpunit",
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
     "require": {
         "hassankhan/config": "*",
         "phpmailer/phpmailer": "*",
